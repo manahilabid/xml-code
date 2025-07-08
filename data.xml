@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<bookstore>
+     <book sno="1" price="500">
+             <name>Ms Office</name>
+             <author>ABC Author</author>
+             <date>12-01-1990</date>
+     </book>
+       <book sno="2" price="300">
+             <name>Html</name>
+             <author>W3C</author>
+             <date>12-01-1990</date>
+     </book>
+       <book sno="3" price="400" >
+             <name>PHP</name>
+             <author>Tailor</author>
+             <date>1-1-2000</date>
+     </book>   
+</bookstore>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<schoolname>
+<school1>
+    <name> the holy mountain sec school</name>
+    <date>01/04/2003</date>
+    <founder>sir lee</founder>
+    <address> khuda ki basti</address>
+</school1>
+<school2>
+    <name> good luck school</name>
+    <date>03/03/2002</date>
+    <founder>sir ali</founder>
+    <address> chatis</address>
+</school2>
+<school3>
+    <name> master mind grammer school</name>
+    <date>02/06/2019</date>
+    <founder>sir lee</founder>
+    <address> khuda ki basti</address>
+</school3>
+<school4>
+    <name>sir barnabaz high school</name>
+    <date>10/07/2020</date>
+    <founder>madam gulnaz</founder>
+    <address> gulshan-e-noor</address>
+</school4>
+<school5>
+    <name>girls gov. sector school</name>
+    <date>01/09/2023</date>
+    <founder>madam sehar</founder>
+    <address>KDA flits  </address>
+</school5>
+</schoolname>
