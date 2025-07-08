@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<data  xmlns:h="https://html.spec.whatwg.org/multipage/"  xmlns:c="https://www.w3schools.com/xml/xml_namespaces.asp">
+    <h:table>
+        <h:tr>
+           <h:td>Ali</h:td>
+           <h:td>25</h:td>
+           <h:td>2 min Chowrangi</h:td>
+        </h:tr>
+    </h:table>
+    <c:table>
+       <c:name>Computer Table</c:name>
+       <c:width>100</c:width>
+        <c:height>200</c:height>
+        <c:price>500</c:price>
+    </c:table>
+</data>
