@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="animal.css" ?>
+<animalsname>
+    <animal1>
+        <name>Dog</name>
+        <kingdom>kingdom Animalia</kingdom>
+        <biologicalname>Canis lupus familiaris</biologicalname>
+        <class>Canidae</class>
+    </animal1>
+    <animal2>
+        <name>Cat</name>
+        <kingdom>kingdom Animalia</kingdom>
+        <biologicalname>Felis domestica</biologicalname>
+        <class>Mammalia</class>
+    </animal2>
+</animalsname>
