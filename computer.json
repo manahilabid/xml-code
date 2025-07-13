@@ -1,0 +1,27 @@
+{
+    "market":{
+        "mark1":{
+            "sno":"1",
+            "name":"chase",
+            "author":"leonmark",
+            "location":"2min"
+        },
+        "mark2":{
+            "sno":"2",
+            "name":"luckyone",
+            "author":"johnpaul",
+            "location":"4k"
+        },
+        "mark3":{
+            "sno":"3",
+            "name":"imtiaz",
+            "author":"dustin",
+            "location":"up"
+
+        }
+    },
+    "studentid":[1,2,3,4,5,6,7,8,9,10],
+    "student":["Alen","John","Sybil","Lucky","Eden","Saleha","Waseela","Solman","Sam","Manahil"],
+    "is_active":false
+
+}
