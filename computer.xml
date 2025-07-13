@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE computer SYSTEM "computer.dtd">
+<Computerstore>
+   
+            <computer sno="1">
+                <Brand>Intel</Brand>
+                <Type>Core i5</Type>
+                <Generation>11th</Generation>
+                <Speed>2.4 GHz</Speed>
+            </computer>
+
+             <computer sno="2">
+                <Brand>Intel</Brand>
+                <Type>Core i5</Type>
+                <Generation>11th</Generation>
+                <Speed>2.4 GHz</Speed>
+            </computer>
+
+             <computer sno="3">
+                <Brand>Intel</Brand>
+                <Type>Core i5</Type>
+                <Generation>11th</Generation>
+                <Speed>2.4 GHz</Speed>
+            </computer>
+
+             <computer sno="4">
+                <Brand>Intel</Brand>
+                <Type>Core i5</Type>
+                <Generation>11th</Generation>
+                <Speed>2.4 GHz</Speed>
+            </computer>
+        
+</Computerstore>

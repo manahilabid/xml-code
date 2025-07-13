@@ -1,0 +1,11 @@
+
+
+
+
+<!ELEMENT computerstore (com+)>
+<!ELEMENT book (Brand, Type, Generation, Speed)>
+<!ELEMENT Brand (#PCDATA)>
+<!ELEMENT Type (#PCDATA)>
+<!ELEMENT Generation (#PCDATA)>
+<!ELEMENT Speed (#PCDATA)>
+<!ATTLIST computer sno CDATA #REQUIRED>
